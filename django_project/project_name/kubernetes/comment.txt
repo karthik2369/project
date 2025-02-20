@@ -1,0 +1,5 @@
+since we are using using Helm, there is no need for a separate kubernetes/ folder because:
+
+Helm already manages Kubernetes manifests inside the helm/chart/templates/ folder.
+ You can deploy everything with a single helm install command.
+ Helm allows dynamic templating, making it more flexible than static YAML files.

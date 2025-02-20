@@ -1,0 +1,18 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:ap-south-1:084828586207:repository/djapp",
+        "registryId": "084828586207",
+        "repositoryName": "djapp",
+        "repositoryUri": "084828586207.dkr.ecr.ap-south-1.amazonaws.com/djapp",
+        "createdAt": "2025-02-14T12:13:57.077000+05:30",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": false
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}
+
+084828586207.dkr.ecr.ap-south-1.amazonaws.com/djapp

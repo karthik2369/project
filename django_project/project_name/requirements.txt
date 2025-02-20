@@ -1,0 +1,2 @@
+ipython==7.34.0  # Last version compatible with Python 3.9
+django>=3.2,<4.0  # Compatible with Python 3.10
